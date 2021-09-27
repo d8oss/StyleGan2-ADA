@@ -10,7 +10,7 @@ jobs:
    url: https://github.com/NVlabs/stylegan2-ada.git
   StyleGan2:
     resources:
-      instance-type: Free-RXT4000
+      instance-type: Free-RTX4000
     needs:
       - CloneRepo
     inputs:
